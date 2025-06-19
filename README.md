@@ -11,7 +11,7 @@ Facilitar o cadastro, consulta e atualização de produtos de forma prática par
 - Consulta de produtos cadastrados
 - Armazenamento dos dados em banco SQLite
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python 3.x
 - SQLite (banco de dados local)
 - Figma (para prototipação das telas)
